@@ -10,7 +10,7 @@ Python=3.8
 ### Required packages: 
 
 ## 3.Tutorial 
-The Jupytar Notebook [tutorial](https://github.com/JiazhangCai/WEST/blob/main/tutorial.ipynb) provides a tutorial of how to implement
+The [tutorial](https://github.com/JiazhangCai/WEST/blob/main/tutorial.ipynb) provides a pipeline of how to implement
 WEST on an actual sample, including the description for every parameter. 
 
 ## 4. Data used in the paper 
