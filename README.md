@@ -14,5 +14,6 @@ The [tutorial](https://github.com/JiazhangCai/WEST/blob/main/tutorial.ipynb) pro
 WEST on an actual sample, including the description for every parameter. 
 
 ## 4. Data used in the paper 
-All the datasets used in the paper, including the simulated datasets and the actual sample datasets, can be found in [data](). The code for 
-generating the synthetic data is also provided in [simulation]().
+The DLPFC data used in the paper can be found [here](http://research.libd.org/spatialLIBD/). 
+The mouse embryo data used in the paper can be found [here](https://crukci.shinyapps.io/SpatialMouseAtlas/). 
+The simulated data used in the paper can be found in the folder []
