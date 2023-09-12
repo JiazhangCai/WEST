@@ -17,6 +17,6 @@ WEST on an actual sample, including the description for every parameter.
 The DLPFC data used in the paper can be found [here](http://research.libd.org/spatialLIBD/).     
 The mouse embryo data used in the paper can be found [here](https://crukci.shinyapps.io/SpatialMouseAtlas/).      
 The simulated data used in the paper can be found in the folder [sim_data](https://github.com/JiazhangCai/WEST/tree/main/sim_data).       
-The reference-based synthetic data is already in the folder.        
+The reference-based synthetic data is already in the [folder](https://github.com/JiazhangCai/WEST/tree/main/sim_data/ref_based).        
 The reference-free synthetic data can be generated from [shiny.rdata](https://github.com/JiazhangCai/WEST/blob/main/sim_data/ref_free/shiny.rdata) using 
 the code [simulation_generate.R](https://github.com/JiazhangCai/WEST/blob/main/sim_data/ref_free/shiny.rdata).
