@@ -6,7 +6,7 @@ It represents a significant advance in clustering spatial transcriptomics data, 
 making it a valuable tool for spatial transcriptomics data analysis.
 
 ## 2. Environment 
-Python=3.8.19 
+Python=3.12.4 
 ### Required packages: 
 The detailed requirements can be found [here](https://github.com/JiazhangCai/WEST/blob/main/requirements.txt).
 
